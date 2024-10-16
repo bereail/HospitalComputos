@@ -1,0 +1,16 @@
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\bin\Debug\net6.0\Appplication.deps.json
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\bin\Debug\net6.0\Appplication.dll
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\bin\Debug\net6.0\Appplication.pdb
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\bin\Debug\net6.0\Domain.dll
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\bin\Debug\net6.0\Domain.pdb
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\Appplication.csproj.AssemblyReference.cache
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\Appplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\Appplication.AssemblyInfoInputs.cache
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\Appplication.AssemblyInfo.cs
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\Appplication.csproj.CoreCompileInputs.cache
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\Appplication.sourcelink.json
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\Appplica.4000D35C.Up2Date
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\Appplication.dll
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\refint\Appplication.dll
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\Appplication.pdb
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\Appplication+\obj\Debug\net6.0\ref\Appplication.dll

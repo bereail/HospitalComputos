@@ -1,3 +1,8 @@
+using Appplication_.Services;
+using Domain.Interfaces;
+using Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,6 +12,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddDbContext<HospitalComputosContext>(options => options.UseSqlite(
+builder.Configuration["ConnectionStrings:DBConnectionString"], b => b.MigrationsAssembly("HospitalContextDB")));
+
+
+builder.Services.AddScoped<ServicioServices>();
+builder.Services.AddScoped<IServicioRepository, ServicioRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

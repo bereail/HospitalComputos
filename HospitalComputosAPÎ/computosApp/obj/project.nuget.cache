@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "19Mf7/eyFX89f+Ytp4Of45jI9+yHMtJi+LJxzMoLgSbp8Pncz/kXX3QXrOlfP8XNxM0OMTeu/r4lXn7sRn095g==",
+  "dgSpecHash": "qyfSCCUGIhG84zs7KOE49Om/bHFsq5ASdcWmJUnrLS+cKV7PdffWPGeR3sDKY2owoBPLfj1wu/psHzWjP+0cSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bsolohaga\\Desktop\\bere\\HEEP\\HEEP-PROGRAM\\HospitalComputosAPÎ\\computosApp\\computosApp.csproj",
+  "projectFilePath": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAPÎ\\computosApp\\computosApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bsolohaga\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bsolohaga\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

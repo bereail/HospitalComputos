@@ -866,6 +866,46 @@
             "rid": "win"
           }
         }
+      },
+      "Appplication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Appplication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Appplication.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Appplication": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -2423,10 +2463,28 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Appplication/1.0.0": {
+      "type": "project",
+      "path": "../Appplication+/Appplication.csproj",
+      "msbuildProject": "../Appplication+/Appplication.csproj"
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Appplication >= 1.0.0",
+      "Infrastructure >= 1.0.0",
+      "Microsoft.EntityFrameworkCore >= 6.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
@@ -2439,11 +2497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsolohaga\\Desktop\\bere\\HEEP\\HEEP-PROGRAM\\HospitalComputosAPÎ\\computosApp\\computosApp.csproj",
+      "projectUniqueName": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAPÎ\\computosApp\\computosApp.csproj",
       "projectName": "computosApp",
-      "projectPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\HEEP\\HEEP-PROGRAM\\HospitalComputosAPÎ\\computosApp\\computosApp.csproj",
+      "projectPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAPÎ\\computosApp\\computosApp.csproj",
       "packagesPath": "C:\\Users\\bsolohaga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\HEEP\\HEEP-PROGRAM\\HospitalComputosAPÎ\\computosApp\\obj\\",
+      "outputPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAPÎ\\computosApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2463,7 +2521,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAPÎ\\Appplication+\\Appplication.csproj": {
+              "projectPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAPÎ\\Appplication+\\Appplication.csproj"
+            },
+            "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAPÎ\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAPÎ\\Infrastructure\\Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -2481,6 +2546,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[6.0.0, )"

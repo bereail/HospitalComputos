@@ -64,3 +64,14 @@ C:\Users\bsolohaga\Desktop\bere\HEEP\HEEP-PROGRAM\HospitalComputosAPÎ\computosA
 C:\Users\bsolohaga\Desktop\bere\HEEP\HEEP-PROGRAM\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.pdb
 C:\Users\bsolohaga\Desktop\bere\HEEP\HEEP-PROGRAM\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.genruntimeconfig.cache
 C:\Users\bsolohaga\Desktop\bere\HEEP\HEEP-PROGRAM\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\ref\computosApp.dll
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.csproj.AssemblyReference.cache
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.AssemblyInfoInputs.cache
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.AssemblyInfo.cs
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.csproj.CoreCompileInputs.cache
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.sourcelink.json
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.dll
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\refint\computosApp.dll
+C:\Users\bsolohaga\Desktop\bere\GIT-PROJECT\HospitalComputos\HospitalComputos\HospitalComputosAPÎ\computosApp\obj\Debug\net6.0\computosApp.pdb
