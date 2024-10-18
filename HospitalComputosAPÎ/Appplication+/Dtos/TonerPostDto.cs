@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Appplication_.Dtos
 {
-    public class ServicioForAddRequest
+    public class TonerPostDto
     {
-        public string NombreServicio { get; set; }
+        public string Nombre { get; set; } = null!;
+        public int Cantidad { get; set; }
     }
 }

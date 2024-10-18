@@ -26,14 +26,16 @@ namespace Appplication_.Services
         {
             return _repository.Get();
         }
-
-        public int AddServicio(ServicioForAddRequest request)
+        public int AddServicio(ServicioPostDto servicioPostDto)
         {
             var servicio = new Servicio()
             {
-                NombreServicio = request.NombreServicio
+                NombreServicio = servicioPostDto.NombreServicio,  // Usar newServicio para obtener el valor
+                Descripción = string.IsNullOrWhiteSpace(servicioPostDto.Descripcion) ? null : servicioPostDto.Descripcion        // Usar newServicio para obtener el valor
             };
+
             return _repository.AddServicio(servicio);
         }
+
     }
 }

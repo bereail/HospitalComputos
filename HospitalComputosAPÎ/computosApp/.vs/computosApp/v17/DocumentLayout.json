@@ -7,11 +7,39 @@
       "RelativeMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\computosapp\\computosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|solutionrelative:computosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\computosapp\\controllers\\tonercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|solutionrelative:controllers\\tonercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{955FD73E-DF4F-439A-8929-63730AC17732}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\computosapp\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|solutionrelative:controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\services\\tonerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\services\\servicioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\dtos\\tonerpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\dtos\\serviciopostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D95DAA-030E-487F-985F-1FC945C7AE71}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\infrastructure\\repositories\\tonerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955FD73E-DF4F-439A-8929-63730AC17732}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\domain\\interfaces\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955FD73E-DF4F-439A-8929-63730AC17732}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\domain\\interfaces\\itonerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D95DAA-030E-487F-985F-1FC945C7AE71}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\infrastructure\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55D95DAA-030E-487F-985F-1FC945C7AE71}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -20,36 +48,21 @@
       "AbsoluteMoniker": "D:0:0:{955FD73E-DF4F-439A-8929-63730AC17732}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\computosapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\computosapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\services\\servicioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\computosapp\\computosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F84134C-A868-4794-B580-D06BADD5AB88}|computosApp.csproj|solutionrelative:computosapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\dtos\\servicioforaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55D95DAA-030E-487F-985F-1FC945C7AE71}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\infrastructure\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{955FD73E-DF4F-439A-8929-63730AC17732}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\domain\\interfaces\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{955FD73E-DF4F-439A-8929-63730AC17732}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55D95DAA-030E-487F-985F-1FC945C7AE71}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\appplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{955FD73E-DF4F-439A-8929-63730AC17732}|..\\Domain\\Domain.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DB48D25-5A47-4CE9-9B9E-99EA68BEE7C0}|..\\Appplication\u002B\\Appplication.csproj|c:\\users\\bsolohaga\\desktop\\bere\\git-project\\hospitalcomputos\\hospitalcomputos\\hospitalcomputosap\u00EE\\appplication\u002B\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -62,34 +75,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T15:17:23.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-16T15:01:48.001Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -107,112 +94,107 @@
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowCsAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "TonerController.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Controllers\\TonerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TonerController.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Controllers\\TonerController.cs",
+              "RelativeToolTip": "Controllers\\TonerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:57:25.76Z",
+              "WhenOpened": "2024-10-18T14:54:09.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Infrastructure\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAiAAAA",
+              "Title": "TonerServices.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Services\\TonerServices.cs",
+              "RelativeDocumentMoniker": "..\\Appplication\u002B\\Services\\TonerServices.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Services\\TonerServices.cs",
+              "RelativeToolTip": "..\\Appplication\u002B\\Services\\TonerServices.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wBwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:42:56.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "..\\Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:49:49.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Domain.csproj",
-              "RelativeToolTip": "..\\Domain\\Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-15T14:17:49.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "computosApp.csproj",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\computosApp.csproj",
-              "RelativeDocumentMoniker": "computosApp.csproj",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\computosApp.csproj",
-              "RelativeToolTip": "computosApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-15T14:15:40.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServicioServices.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Services\\ServicioServices.cs",
-              "RelativeDocumentMoniker": "..\\Appplication\u002B\\Services\\ServicioServices.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Services\\ServicioServices.cs",
-              "RelativeToolTip": "..\\Appplication\u002B\\Services\\ServicioServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:42:54.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServicioForAddRequest.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Dtos\\ServicioForAddRequest.cs",
-              "RelativeDocumentMoniker": "..\\Appplication\u002B\\Dtos\\ServicioForAddRequest.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Dtos\\ServicioForAddRequest.cs",
-              "RelativeToolTip": "..\\Appplication\u002B\\Dtos\\ServicioForAddRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:57:52.528Z",
+              "WhenOpened": "2024-10-18T14:49:33.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ITonerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Interfaces\\ITonerRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\ITonerRepository.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Interfaces\\ITonerRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\ITonerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:38:34.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TonerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Infrastructure\\Repositories\\TonerRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\TonerRepository.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Infrastructure\\Repositories\\TonerRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\TonerRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:37:39.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ServicioRepository.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Infrastructure\\Repositories\\ServicioRepository.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\ServicioRepository.cs",
               "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Infrastructure\\Repositories\\ServicioRepository.cs",
               "RelativeToolTip": "..\\Infrastructure\\Repositories\\ServicioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T13:59:12.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServicioController.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "Controllers\\ServicioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:23:23.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:17:23.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IServicioRepository.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Interfaces\\IServicioRepository.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IServicioRepository.cs",
@@ -225,7 +207,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:49:49.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicioPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Dtos\\ServicioPostDto.cs",
+              "RelativeDocumentMoniker": "..\\Appplication\u002B\\Dtos\\ServicioPostDto.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Dtos\\ServicioPostDto.cs",
+              "RelativeToolTip": "..\\Appplication\u002B\\Dtos\\ServicioPostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:57:52.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TonerPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Dtos\\TonerPostDto.cs",
+              "RelativeDocumentMoniker": "..\\Appplication\u002B\\Dtos\\TonerPostDto.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Dtos\\TonerPostDto.cs",
+              "RelativeToolTip": "..\\Appplication\u002B\\Dtos\\TonerPostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:50:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserServices.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Services\\UserServices.cs",
               "RelativeDocumentMoniker": "..\\Appplication\u002B\\Services\\UserServices.cs",
@@ -237,12 +257,70 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioServices.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Services\\ServicioServices.cs",
+              "RelativeDocumentMoniker": "..\\Appplication\u002B\\Services\\ServicioServices.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Services\\ServicioServices.cs",
+              "RelativeToolTip": "..\\Appplication\u002B\\Services\\ServicioServices.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:42:54.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:42:56.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T14:17:49.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T15:01:48.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "computosApp.csproj",
+              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\computosApp.csproj",
+              "RelativeDocumentMoniker": "computosApp.csproj",
+              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\computosApp\\computosApp.csproj",
+              "RelativeToolTip": "computosApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T14:15:40.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure.csproj",
@@ -250,16 +328,11 @@
               "RelativeToolTip": "..\\Infrastructure\\Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-15T14:16:13.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2024-10-15T14:16:13.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Appplication.csproj",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Appplication.csproj",
               "RelativeDocumentMoniker": "..\\Appplication\u002B\\Appplication.csproj",
@@ -267,25 +340,11 @@
               "RelativeToolTip": "..\\Appplication\u002B\\Appplication.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-15T14:15:57.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T14:15:57.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Domain\\Class1.cs",
-              "RelativeToolTip": "..\\Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:04:06.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\bsolohaga\\Desktop\\bere\\GIT-PROJECT\\HospitalComputos\\HospitalComputos\\HospitalComputosAP\u00CE\\Appplication\u002B\\Class1.cs",
               "RelativeDocumentMoniker": "..\\Appplication\u002B\\Class1.cs",
@@ -293,8 +352,7 @@
               "RelativeToolTip": "..\\Appplication\u002B\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T14:03:42.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T14:03:42.725Z"
             }
           ]
         },
