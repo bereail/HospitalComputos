@@ -26,7 +26,9 @@ builder.Services.AddDbContext<HospitalComputosContext>(options =>
 
 builder.Services.AddScoped<ServicioServices>();
 builder.Services.AddScoped<TonerServices>();
+builder.Services.AddScoped<EntregaTonerServices>();
 builder.Services.AddScoped<ITonerRepository, TonerRepository>();
+builder.Services.AddScoped<IEntregaTonerRespository, EntregaTonerRepository>();
 builder.Services.AddScoped<IServicioRepository, ServicioRepository>();
 
 var app = builder.Build();

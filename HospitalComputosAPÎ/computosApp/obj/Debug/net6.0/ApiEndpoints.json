@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "computosApp.Controllers.EntregaTonerController",
+    "Method": "NuevaEntregaToner",
+    "RelativePath": "api/EntregaToner/nuevaEntregaToner",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entregaTonerPostDto",
+        "Type": "Appplication_.Dtos.EntregaTonerPostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "computosApp.Controllers.ServicioController",
+    "Method": "AgregarServicio",
+    "RelativePath": "api/Servicio/agregarServicio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "servicioPostDto",
+        "Type": "Appplication_.Dtos.ServicioPostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "computosApp.Controllers.TonerController",
+    "Method": "AgregarToner",
+    "RelativePath": "api/Toner/agregartoner",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tonerPostDto",
+        "Type": "Appplication_.Dtos.TonerPostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -9,7 +9,7 @@ namespace Domain.Interfaces
 {
     public interface IServicioRepository
     {
-        Servicio? Get(string name);
+        Servicio? Get(string? name);
         List<Servicio> Get();
         int AddServicio (Servicio servicio);
     }
